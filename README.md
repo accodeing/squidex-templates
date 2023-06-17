@@ -16,7 +16,7 @@ Just click one of the following links to navigate to the templates and to get in
 
 > IMPORTANT: The samples are based on the official CLI, which can be downloaded from the following link:  [Download CLI](https://github.com/Squidex/squidex-samples/releases).
 
-* [Starter Sample Profile](sample-profile/README.md): Create a simple profile page with a sample for ASP.NET Core.
+* [Original Starter Sample Profile](sample-profile/README.md): Original sample from squidex/templates to create a simple profile page with a sample for ASP.NET Core.
 
 ## How to create a new template?
 
